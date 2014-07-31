@@ -1,4 +1,4 @@
-This is the EUTelescope package, a generic pixel telescope data
+this is the EUTelescope package, a generic pixel telescope data
 analysis framework.
 
 You can find all documentation online: http://eutelescope.web.cern.ch
